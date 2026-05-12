@@ -54,6 +54,7 @@
     {"id":{"name":"obj_transition","path":"objects/obj_transition/obj_transition.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_warp","path":"objects/obj_warp/obj_warp.yy",},},
+    {"id":{"name":"rm_ancient_cite_puzzle_1","path":"rooms/rm_ancient_cite_puzzle_1/rm_ancient_cite_puzzle_1.yy",},},
     {"id":{"name":"rm_ancient_cite","path":"rooms/rm_ancient_cite/rm_ancient_cite.yy",},},
     {"id":{"name":"rm_flowerbed","path":"rooms/rm_flowerbed/rm_flowerbed.yy",},},
     {"id":{"name":"aarch_ref","path":"sprites/aarch_ref/aarch_ref.yy",},},
@@ -74,6 +75,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_flowerbed","path":"rooms/rm_flowerbed/rm_flowerbed.yy",},},
     {"roomId":{"name":"rm_ancient_cite","path":"rooms/rm_ancient_cite/rm_ancient_cite.yy",},},
+    {"roomId":{"name":"rm_ancient_cite_puzzle_1","path":"rooms/rm_ancient_cite_puzzle_1/rm_ancient_cite_puzzle_1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
