@@ -3,7 +3,7 @@
   "%Name":"spr_aarch_right",
   "bboxMode":2,
   "bbox_bottom":27,
-  "bbox_left":4,
+  "bbox_left":1,
   "bbox_right":17,
   "bbox_top":20,
   "collisionKind":1,
